@@ -1,0 +1,18 @@
+{
+    "booted_before": true,
+    "journal": {
+        "enemies": [
+            "normal"
+        ],
+        "upgrades": [
+            "sight",
+            "bullet_speed",
+            "move_speed",
+            "pickup_range",
+            "max_hp",
+            "heal",
+            "damage",
+            "fire_rate"
+        ]
+    }
+}
